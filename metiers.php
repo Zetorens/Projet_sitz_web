@@ -43,15 +43,10 @@
     </header>
     <section class="douze">
         <div class="milieutout">
-                 <div class="map">
-                    <img class="mapun" src="Capture.PNG" alt="">
-                </div>
             <div class="milieucentre">
-                <div class="pretext">
-                    <p class="textcarrer">Dans ce RPG en ligne, vous pouvez vendre et acheter des ressources grâce à la monnaie du jeu, les "kamas" et exercer de multiples métiers (paysan, chasseur, boulanger, forgeron...). Donjons, chasses aux trésors, monstres, boss, familiers, compagnons et mode joueur contre joueur (JcJ / PvP) vous attendent dans ce jeu stratégie en ligne</p>
-                </div>
-                <div class="pretext">
-                    <p class="textcarrer">Dans ce RPG en ligne, vous pouvez vendre et acheter des ressources grâce à la monnaie du jeu, les "kamas" et exercer de multiples métiers (paysan, chasseur, boulanger, forgeron...). Donjons, chasses aux trésors, monstres, boss, familiers, compagnons et mode joueur contre joueur (JcJ / PvP) vous attendent dans ce jeu stratégie en ligne</p>
+                <div class="preclassess">
+                    <img class="classess" src="imgmetier.png" alt="">
+                    <p class="preclassestext">Qui dit métier dit travail. " Quoi ? Travailler dans un jeu vidéo ? ". Mais réfléchissez, qui dit travail dit aussi rémunération : à vous les kamas (et par pelletées, en plus !). Alors ? DOFUS propose un large choix de 18 métiers, avec lesquels vous allez pouvoir fabriquer des objets allant de la miche de pain jusqu'au plus complexe des chapeaux, des ceintures, bottes, bagues, amulettes et autres armes de haut niveau. Vous pouvez même améliorer votre équipement existant grâce aux professions de Forgemagie.</p>
                 </div>
             </div>
         </div>

@@ -43,15 +43,14 @@
     </header>
     <section class="douze">
         <div class="milieutout">
-                 <div class="map">
-                    <img class="mapun" src="Capture.PNG" alt="">
-                </div>
             <div class="milieucentre">
-                <div class="pretext">
-                    <p class="textcarrer">Dans ce RPG en ligne, vous pouvez vendre et acheter des ressources grâce à la monnaie du jeu, les "kamas" et exercer de multiples métiers (paysan, chasseur, boulanger, forgeron...). Donjons, chasses aux trésors, monstres, boss, familiers, compagnons et mode joueur contre joueur (JcJ / PvP) vous attendent dans ce jeu stratégie en ligne</p>
+                <div class="preclassess">
+                    <img class="classess" src="imgdofus.png" alt="">
+                <div>
+                    <a class="joooin" href="https://www.dofus.com/fr/creer-un-compte">Crée un compte Ankama</a>
                 </div>
-                <div class="pretext">
-                    <p class="textcarrer">Dans ce RPG en ligne, vous pouvez vendre et acheter des ressources grâce à la monnaie du jeu, les "kamas" et exercer de multiples métiers (paysan, chasseur, boulanger, forgeron...). Donjons, chasses aux trésors, monstres, boss, familiers, compagnons et mode joueur contre joueur (JcJ / PvP) vous attendent dans ce jeu stratégie en ligne</p>
+                <div>
+                    <a class="joooin" href="https://www.dofus.com/fr/mmorpg/telecharger">Télécharger Dofus</a>
                 </div>
             </div>
         </div>
@@ -64,5 +63,5 @@
             <li class="li_footer"><a class="navigateur" href="join.php">Rejoignez Nous</a></li>
         </ul>
     </footer>
-</body>
+</body> 
 </html>

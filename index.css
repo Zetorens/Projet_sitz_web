@@ -5,7 +5,10 @@
 body{
     margin: 0%;
     padding: 0%;
-    overflow-x: hidden;
+    background-image: url(fond.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
 header{
@@ -82,7 +85,6 @@ background-color: #638221;
     justify-content: end;
     align-items: top;
 }
-
 .nav{
     margin: 0%;
     padding: 0%;
@@ -99,17 +101,20 @@ background-color: #638221;
     display: none;
     padding: 0;
     margin: 0;
+    z-index: 1000;
 }
 
 .nav .sousmenu li {
     float: none;
     margin: 0;
-    padding: 0;   
+    padding: 0;
+    z-index: 1000; 
 }
 
 .nav .sousmenu li a:link, .nav li a:visited {
     display: block;
-    background-color: #2b280d;
+    background-color: #2b280d00;
+    z-index: 1000;
 }
 
 .nav .sousmenu li a:hover {
@@ -148,26 +153,16 @@ a{
     text-align: right;
 }
 
-.douze{
-    width: 100vw;
-    
-    height: 100vh;
-
-    background-image: url(MAP.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    overflow-x: hidden;
-   
-}
-
 .milieutout{
     background-color: #2b280d;
     width: 80%;
     height: 190%;
     margin-top: 8%;
     margin-right: 10%;
-    margin-left: 10%;   
+    margin-left: 10%;
     margin-bottom: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
 }
 
 .map{
@@ -176,7 +171,6 @@ a{
 
 .mapun{
     width: 80%;
-    margin-top: 10%;
     margin-bottom: 10%;
 }
 
@@ -197,7 +191,6 @@ a{
 
 footer{
     background-color: #51554e;
-    margin-bottom: 5.5%;
 }
 
 .footer{
@@ -211,4 +204,33 @@ footer{
 
 .li_footer{
     width: 20%;
-}   
+}
+
+
+.fooonte{
+    width: 80%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.classess{
+    width: 100%;
+}
+
+.preclassess{
+    width: 100%;
+    height: 70%;
+    margin: 10%;
+}
+
+.preclassestext{
+    background-color: #e8be5c;
+    
+}
+
+.joooin{
+    background-color: #638221;
+    margin: 5%;
+    padding: 2%;
+    display: table;
+}

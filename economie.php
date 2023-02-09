@@ -23,7 +23,7 @@
                         <li class="connect"><a href="inscription.php">Crée un Compte</a></li>
                     </ul>
                 </div>  
-            </div>
+            </div>   
             <nav>
                 <ul class="nav">
                     <li><a class="navigateur" href="index.php">Accueil</a></li>
@@ -43,15 +43,10 @@
     </header>
     <section class="douze">
         <div class="milieutout">
-                 <div class="map">
-                    <img class="mapun" src="Capture.PNG" alt="">
-                </div>
             <div class="milieucentre">
-                <div class="pretext">
-                    <p class="textcarrer">Dans ce RPG en ligne, vous pouvez vendre et acheter des ressources grâce à la monnaie du jeu, les "kamas" et exercer de multiples métiers (paysan, chasseur, boulanger, forgeron...). Donjons, chasses aux trésors, monstres, boss, familiers, compagnons et mode joueur contre joueur (JcJ / PvP) vous attendent dans ce jeu stratégie en ligne</p>
-                </div>
-                <div class="pretext">
-                    <p class="textcarrer">Dans ce RPG en ligne, vous pouvez vendre et acheter des ressources grâce à la monnaie du jeu, les "kamas" et exercer de multiples métiers (paysan, chasseur, boulanger, forgeron...). Donjons, chasses aux trésors, monstres, boss, familiers, compagnons et mode joueur contre joueur (JcJ / PvP) vous attendent dans ce jeu stratégie en ligne</p>
+                <div class="preclassess">
+                    <img class="classess" src="imgeconomie.jpg" alt="">
+                    <p class="preclassestext">Le commerce occupe une place très importante dans DOFUS. En effet, pour obtenir les objets de votre choix il vous faudra soit de la chance, soit des kamas (et dans un cas comme dans l'autre, de la persévérance) ! Et pour avoir des kamas, il faut combattre des monstres (on gagne des kamas après chaque combat) mais aussi vendre les objets qui ne vous sont pas utiles.</p>
                 </div>
             </div>
         </div>
